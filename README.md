@@ -113,11 +113,11 @@ The methodology has changed throughout its history. Agile has become more import
 
 A framework that enables teams to work together and learn from their specific experiences.
 
-Scrum organizes around producing deliverables efficiently and taking stock based on this loop. Projects are divided into smaller units called sprints. Daily scrum meetings may occur where the sprint product backlog and user feedback are reviewed.
+Scrum organizes around producing deliverables efficiently and taking stock based on this loop. Projects are divided into smaller units called sprints. Daily scrum meetings may occur (sometimes called standups) where the sprint backlog and user feedback are reviewed.
 
 What did we do yesterday? What will we do today? Everyone is sharing their updates so that teams are empowered to be self-organizing and all members understand what is going on with each other member. Each member is able to adjust their own strategy based on their counterparts.
 
-<h3>Scrum Roles</h3>
+<h3>Scrum <em>Roles</em></h3>
 <ul>
     <li>Product Owner</li>
     <li>Scrum Master</li>
@@ -132,4 +132,80 @@ The <strong>Scrum Master</strong> helps the team apply scrum, removes barriers f
 
 The <strong>Scrum Team</strong> work together to meet the requirements outlined by the product owner and stakeholders.
 
+<h3>Scrum <em>Artifacts</em></h3>
 
+Sort of our internal documents for organizing our objectives. "Artifact" is in this sense an effective word for what the following are.
+
+<strong>Product Backlog</strong>
+<ul>
+    <li>Full list of deliverables.</li>
+    <li>New features and changes to be made.</li>
+    <li>Bug Fixes</li>
+    <li>Changes to Infrastructure</li>
+    <li>Updated as the project develops. Dynamic.</li>
+</ul>
+
+<strong>Sprint Backlog</strong>
+<ul>
+    <li>Subset of Product Backlog</li>
+    <li>Deliverables for this sprint.</li>
+    <li>Negotiated between the team and product owner.</li>
+    <li>Deciding on timelines</li>
+</ul>
+
+<strong>Product Increment</strong>
+<ul>
+    <li>What is already delivered + what we gained in this sprint.</li>
+    <li>More or less what was once in the product backlog but has now been completed is in the product increment.</li>
+    <li>A product increment should leave the software in a usable state. (release but not necessarily deployment)</li>
+</ul>
+
+<h3>Scrum <em>Framework</em></h3>
+
+This is like the workflow, timeline, loop, or path we follow when using Scrum.
+
+![Image of Initialization, skip, and note-taking.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eyp2tqre1k76i0eritpp.png)
+<figcaption>Flowchart from Simplilearn Agile Scrum Full Course Lecture.</figcaption>
+&nbsp;
+
+This is how we incrementally move through the development cycle. It's like a fractal by which I mean the smaller scale processes resemble the larger scale processes. We take the idea of moving a product from start to finish and do it many times within the development cycle.
+
+1) Product Backlog - Orient ourselves with respect to the goals of the project and demands of the stakeholders.
+2) Sprint Planning - Determine what tasks from the Product Backlog to put on the Sprint Backlog.
+3) Sprint Backlog - What actually made it into our goals for this sprint from the planning stage.
+4) Daliy Scrums - What do we aim to acheive in these 24 hours? What did we accomplish in the last 24 hours? This should take 10 minutes or so (sometimes called "timeboxed"). The Product Owner (PO) may sit in but does not play an active role in these check-ins.
+5) Sprint Review - Once the sprint is complete we take stock of what we have accomplished. Everyone, the product owner, srum master, and team, altogether.
+
+Then the product owner speaks with the stakeholders and is able to make changes to the Product Backlog for moving forward.
+
+6) Sprint Retrospective - What went well? What went wrong? What can we learn and what mistakes can we avoid before moving to the next sprint. This step is documented.
+
+Once we have done all of this we have a Product Increment.
+
+
+![Image of Initialization, skip, and note-taking.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eyp2tqre1k76i0eritpp.png)
+<figcaption>Flowchart from Simplilearn Agile Scrum Full Course Lecture.</figcaption>
+&nbsp;
+
+We can use a <strong>Scrum Board</strong> to visualize everything on the Sprint Backlog, showing all items during the daily scrum, and made available to all members of the team.
+
+Typically this board is organized into "to do", "started", and "finished" sections (like a kanban board).
+
+We look at the Scrum Board during our daily Scrum Meetings, and there is a strong emphasis on communicating to team members any areas we may be stuck-- however the daily meeting is not a setting for resolving these issues, that can be done afterwards in smaller groups or pairs.
+
+We make a new Scrum Board for each sprint.
+
+<em>It is advisable to use a scrum approach anytime we are moving quickly and making a lot of changes or involving the consumer's feedback regularly.</em>
+
+<h2>Review</h2>
+
+Agile Project Management is a flexible approach to building a project. Think of this as the scope immediately above our Scrum practices.
+
+<ul>
+    <li>Project Planning - Breaking the project into tasks, sprints, and estimating timeframes.</li>
+    <li>Roadmap Creation - How the project should evolve over time until it has all the features required.</li>
+    <li>Release Planning - Releases after each sprint, with later sprints being shorter.</li>
+    <li>Sprint Planning - deciding what to do in the current sprint.</li>
+    <li>Daily Meetings - Making adjustments as we go during sprints.</li>
+    <li>Sprint Meeting & Retrospective - One meeting with stakeholders to share the release, and one to talk about what went well and what did not.</li>
+<ul>
