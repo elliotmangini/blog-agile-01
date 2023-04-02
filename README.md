@@ -10,6 +10,8 @@ If you are a new developer with an understanding of Object Oriented programming,
 
 > <em>"Before you dive into the content of this blog I want you to mentally prepare yourself for the concepts to be related as a web of ideas. There isn't always a clear heirarchy of concepts at play, though I have tried to organize the content in that way whenever possible and also aimed to minimize repetition. Depending on the implementation of Agile the concepts have a changing relationship to one another so keep an open mind as you make note of each element and you can put them together at the end!" -Elliot</em>
 
+This blog is a distillation of the 
+
 <h2>Making Changes Quickly</h2>
 
 Nowadays companies need to compete in a rapidly changing marketplace. We have to consider reacting to and taking advantage of an ability to adapt. We need to be ready to make changes and consider...
@@ -73,11 +75,15 @@ We can also more easily predict when things will be completed and how much thing
 
 A framework for implementing ideas, reflecting, and making adjustments. Allows for incorporating practices from other frameworks. Works when cross-functional teams are coordinating multiple "sprints" or 2-4 week chunks of development.
 
+Scrum incorporates scrum boards and a specific iterative working pattern which shares similarities with Kanban. Kanban refers to the iterations as leaps as opposed to sprints. Scrum may be better for longer-running projects where there is a greater emphasis on the interative nature of the development process.
+
 <h3>Kanban</h3>
 
-Visual workflow for organizing teams and prioritizing objectives transparently and efficiently. Scrum can sometimes use Kanban boards or scrum boards. They are similar working patterns.
+Kanban is a visual workflow for organizing teams and prioritizing objectives transparently and efficiently. Tasks flow from left to right through to-do, ongoing, and done categories. Kanban emphasizes limiting the amount of tasks being done, the time being spent on those tasks, and enhances visibility across the teams. It is highly flexible and may work best for shorter timelines.
 
-Good for adapting to a changing environment.
+> Kanban comes from a japanese word meaning 'signboard' and was first developed in Japan for use in manufacturing, and was later adopted and popularized by project development teams around the world.
+
+Kanban is a simple working pattern that is good for adapting to a changing environment. In Kanban changes can be made at any time, whereas scrum provides a specific pattern where changes are made during the retrospective and not during the iterations. 
 
 <h3>Extreme Programming (XP)</h3>
 
@@ -201,9 +207,9 @@ We make a new Scrum Board for each sprint.
 
 <em>It is advisable to use a scrum approach anytime we are moving quickly and making a lot of changes or involving the consumer's feedback regularly.</em>
 
-<h2>Review</h2>
+<h2>Iterative Workflow Review (Scrum)</h2>
 
-Agile Project Management is a flexible approach to building a project that utilizes Scrum.
+Agile Project Management is a flexible approach to building a project when it utilizes Scrum.
 
 <ul>
     <li>Project Planning - Breaking the project into tasks, sprints, and estimating timeframes.</li>
@@ -353,7 +359,7 @@ The ARTs coordinate in PI Planning meetings and when an enterprise is working at
 <ul>
     <li>Release Train Engineer - Facillitates PI Planning process.</li>
     <li>Project Management - Provide the vision and backlog of tasks.</li>
-    <li>System Architect - Provides architectural guidance.</li>
+    <li>Systems Architect - Provides architectural guidance.</li>
 </ul>
 
 These individuals use a program board to illustrate the dependencies between teams and plan across increments.
@@ -363,3 +369,75 @@ After each increment all teams are gathered for a system demo which is followed 
 The ART in this way establishes a continuous delivery pipeline in conjunction with DevOps practices. This allows for continuous exploration, learning, informed risk-taking, and value available on demand.
 
 <h2>Enterprise Solution Delivery</h2>
+
+Zooming out one level further, a Solution Train at the ESD level is made up of multiple ARTs.
+
+There are new roles that function similarly at this level:
+
+<ul>
+    <li>Solution Train Engineer - Facillitates solution train events.</li>
+    <li>Solution Management - Authorizes what needs to be built.</li>
+    <li>Solutions Architect - Handles architecture across ARTs.</li>
+</ul>
+
+<h2>Lean Portfolio Management</h2>
+
+Combines strategic themes with portfolio vision to enable solution development aligned with the enterprise's strategy. Ensures that defects are eliminated downstream and risk factors are eliminated. Ensures viability of and funding for value streams.
+
+<h2>Organizational Agility</h2>
+
+Enables portfolios with strategic agility. All areas of the enterprise from recruitment to procurement to development are able to respond with the same flexibility and speed that the project teams require.
+
+As we keep introducing new products and services the management and operations need to remain educated about them. Operations must resolve issues to ensure the customer doesn't experience a drop in value.
+
+Encouraging the growth of lean-thinking people and agile teams, making changes in the direction based on the scenario. Focusing on organizing and reorganizing an environment for the flow of value across the environment.
+
+<h2>Continuous Learning Culture</h2>
+
+This one is selfexplanatory but it's important. We should be focused on continous improvement, and can consider the enterprise to be a learning organization. This way we have the right culture in place to continue thriving.
+
+We wanna move away from a way of thinking where we find the "right" way to do something and then celebrate the victory towards one where we are constantly making incremental changes with regard to a dynamic environment.
+
+<h2>Lean-Agile Leadership</h2>
+
+Ensuring that everyone is motivated by emodying, teaching, and exhibit, lean-agile mindsets, principles, and values across the organization. This ensures business agility.
+
+<h3>SAFe Configurations</h3>
+
+Configurations of a framework refer to different flavors and levels of comprehensiveness in that implementation.
+
+<strong>Essential SAFe</strong> - A starting point for implementing SAFe.
+
+<strong>Large Solution SAFe</strong> - For Large and complex solutions.
+
+<strong>Portfolio SAFe</strong> - Enabling business strategies through SAFe.
+
+<strong>Full SAFe</strong> - The comprehensive implementation of all seven SAFe competencies.
+
+<h1>Review</h1>
+
+We should now be able to answer the following questions.
+
+What advantages does Agile offer over the Waterfall method?
+
+> "From its inception Agile was built to react to changes more rapidly and be more flexible than previous methodologies. It's right in the name-- Agile outlines strategies that work better for larger organizations and can help build a stronger relationship between the organization and its end-users."
+
+What are some main practical difference between Agile and Waterfall?
+
+> "Waterfall works rigidly as a linear SDLC, while Agile works iteratively, incrementally, and as such is able to continuously deliver and adjust. The increments must be small, usable, and high-quality. The modular approach requires individuals in the organization to have a broad understanding of the products being built and the management must embody and exemplify Agile's core values. The awareness and cross-functionality required for Agile is supported by working patterns like Scrum that ensure teams stay organized and that high visibility is maintained through events like retrospectives and daily scrum meetings."
+
+What are some core values of Agile?
+
+> "Transparency and visibility, communication and personal interaction (Crystal), minimizing waste (Lean), adaptability, and integrity. Working software over comprehensive documentation is one manifestation of placing the value delivered as the first priority."
+
+Where is Agile implemented?
+
+> "When agile is comprehensively integrated, it aligns the values of the business with the strategies at all levels of the organization. It ensures that value flows efficiently across the organization, from the stakeholders to the teams and management all the way to the client."
+
+What kind of culture does Agile emphasize?
+
+> Agile anables teams to be accountable, self-organizing, and high-integrity. This allows the business to more successfully leverage the strengths of individuals, and integrate greater diversity, which further enhances the organization's culture.
+
+I hope this guide helps you hit the ground running and feel more confident with Agile concepts. If you have any questions or feedback, please share below or connect with me directly!
+
+-Elliot
