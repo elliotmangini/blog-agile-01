@@ -8,9 +8,11 @@ IMG OF COMPANIES THAT USE AGILE
 
 If you are a new developer with an understanding of Object Oriented programming, it's not so far of a stretch to say that the Agile strategy is sort of like modular task management. When you hear about self-organizing cross-functional teams, those are words associated with Agile. It's like organizing the work being done in the same way you approach functional programming. If you look at Agile like that a lot of these concepts are going to seem familiar.
 
+> <em>"Before you dive into the content of this blog I want you to mentally prepare yourself for the concepts to be related as a web of ideas. There isn't always a clear heirarchy of concepts at play, though I have tried to organize the content in that way whenever possible and also aimed to minimize repetition. Depending on the implementation of Agile the concepts have a changing relationship to one another so keep an open mind as you make note of each element and you can put them together at the end!" -Elliot</em>
+
 <h2>Making Changes Quickly</h2>
 
-Nowadays companies need to compete in a rapidly changing marketplace. We have to consider reacting to and taking advantage of adapting in a fast-paced industry. We need to be ready to make changes and consider...
+Nowadays companies need to compete in a rapidly changing marketplace. We have to consider reacting to and taking advantage of an ability to adapt. We need to be ready to make changes and consider...
 
 <ul>
     <li>Cost</li>
@@ -26,10 +28,10 @@ Waterfall Methodology is a linear approach to development which we can briefly t
 <h3>Aspects of Waterfall Methodology</h3>
 
 <ul>
+    <li>Woks linearly.</li>
     <li>Works well for predictable development.</li>
     <li>Small companies.</li>
     <li>Longer development cycles.</li>
-    <li>Woks linearly.</li>
     <li>Make the documentation, begin development, work step by step.</li>
     <li>More wait time.</li>
     <li>Cumberson, making changes is more involved.</li>
@@ -43,28 +45,25 @@ Waterfall Methodology is a linear approach to development which we can briefly t
 <ul>
     <li>Smaller teams working on bite-sized objectives.</li>
     <li>Modular work ensures quality.</li>
-    <li>Working software over comprehensive documentation</li>
     <li>Easier to make changes.</li>
     <li>Easier to respond to the market.</li>
-    <li>Better for the end-user.</li>
-    <li>Using a more flexible plan.</li>
+    <li>Goals are flexible.</li>
     <li>Deliver to the customer faster.</li>
     <li>Unit tests are easier.</li>
     <li>Predefined Schedule</li>
     <li>Predictable Costs</li>
     <li>High Visibility and High Transparency</li>
-    <li>Profuct backlog is flexible.</li>
 </ul>
 
 <h3>Client Side</h3>
 
 Agile emphasizes maintaining working products over creating comprehensive documentation. This makes creating documentation easier in the long wrong because it is delayed until the product is up and running. We make better use of customer's feedback and have a collaborative relationship with them. This means having more frequent updates and deliveries.
 
+There is greater transparency when users observe changes incrementally. This allows them to give feeback for effectively. Clients can illuminate what features are a priority, those can be developed first, which raises the value of the product.
+
 <h3>Developer Side</h3>
 
-Agile Methodology gives teams more responsibility, ownership, freedom, autonomy, and trust. This means that soft skills are more important and face-to-face communication is prioritized. Teams can work simultaneously on different objectives-- different working pieces. This modular approach relies on simplicity in design.
-
-There is greater transparency when users observe changes incrementally. This allows them to give feeback for effectively. Clients can illuminate what features are a priority, those can be developed first, which raises the value of the product.
+Agile gives teams more responsibility, ownership, freedom, autonomy, and trust. This means that soft skills are more important and face-to-face communication is prioritized. Teams can work simultaneously on different objectives-- different working pieces. This modular approach relies on simplicity in design.
 
 We can also more easily predict when things will be completed and how much things will cost.
 
@@ -76,7 +75,7 @@ A framework for implementing ideas, reflecting, and making adjustments. Allows f
 
 <h3>Kanban</h3>
 
-Visual workflow for organizing teams and prioritizing objectives transparently and efficiently.
+Visual workflow for organizing teams and prioritizing objectives transparently and efficiently. Scrum can sometimes use Kanban boards or scrum boards. They are similar working patterns.
 
 Good for adapting to a changing environment.
 
@@ -98,21 +97,21 @@ There may be a problem with our product and the consumer is not happy. We need t
 
 <h3>History of Scrum</h3>
 
-1986 - Scrum is first introduced in Japan.
+> 1986 - Scrum is first introduced in Japan.
+> 
+> 1995 - First early versions of Agile appear.
+> 
+> 2001 - Agile Alliance & first formal appearance of Agile methodoligies with scrum.
+> 
+> 2002 - Scrum Alliance & certifications added.
+> 
+> 2006 - Scrum Inc. offers certification courses privately.
+>
+> 2009 - Scrum.org offers those certification courses (online?).
+>
+> 2010 - First Scrum Guide is published and freely available.
 
-1995 - First early versions of Agile appear.
-
-2001 - Agile Alliance & first formal appearance of Agile methodoligies with scrum.
-
-2002 - Scrum Alliance & certifications added.
-
-2006 - Scrum Inc. offers certification courses privately.
-
-2009 - Scrum.org offers those certification courses (online?).
-
-2010 - First Scrum Guide is published and freely available.
-
-The methodology has changed throughout its history. Agile has become more important over time.
+The methodology has changed throughout its history and Agile has become more important over time.
 
 <h2>What is Scrum?</h2>
 
@@ -165,7 +164,7 @@ Sort of our internal documents for organizing our objectives. "Artifact" is in t
     <li>A product increment should leave the software in a usable state. (release but not necessarily deployment)</li>
 </ul>
 
-<h3>Scrum <em>Framework</em></h3>
+<h3>Scrum <em>Workflow</em></h3>
 
 This is like the workflow, timeline, loop, or path we follow when using Scrum.
 
@@ -215,32 +214,6 @@ Agile Project Management is a flexible approach to building a project that utili
     <li>Sprint Meeting & Retrospective - One meeting with stakeholders to share the release, and one to talk about what went well and what did not.</li>
 </ul>
 
-<h1>Kanban</h1>
-
-A visual representation of work and workflow among a team. The scrum board is an example of a Kanban Board.
-
-<h2>Kanban Items</h2>
-
-<h3>User Stories</h3>
-
-Narratives from the end-user's perspective about using the product in its completed state.
-
-<h3>Kanban</h3>
-
-Good fasdfasdfasdfasdft.
-
-<h3>Extreme Programming (XP)</h3>
-
-Worasdfasdfasdf
-
-<h3>Lean</h3>
-
-Toasdfasdfasdfasdf
-
-<h3>Crystal</h3>
-
-Apsdfasdfasdfasdf
-
 <h2>What are User Stories?</h2>
 
 User stories are a way for us to better understand what we need to make. Let's say we want to create a new product or add a new feature to our product. User stories are written from the persepective on end users and allow us to ensure that our product creates the most value by starting in the moment where that value expresses itself and working backwards.
@@ -259,43 +232,40 @@ Incorporating User Stories into an Agile workflow increases visibility (which in
 
 <h2>Tenants of good User Stories?</h2>
 
-I'm not hugeley into acronyms or pneumonics but we're going to use one it's called INVEST and here it is.
+I'm not hugeley into acronyms or pneumonics but we're going to use one it's called <strong>INVEST</strong> and here it is.
 
-<strong>I</strong> - Independent and can be delivered on seperately.
+> <strong>I</strong> - Independent and can be delivered on seperately.
 
-<strong>N</strong> - Negotiable and open for discussion.
+> <strong>N</strong> - Negotiable and open for discussion.
 
-<strong>V</strong> - Valuable-- "Why is the user excited?" this is mabe the most important one.
+> <strong>V</strong> - Valuable-- "Why is the user excited?" this is mabe the most important one.
 
-<strong>E</strong> - Estimatable-- meaning it is clear what would be required for the story to be true. "I use it everyday and it has made my accounting take half the time!" is not estimatable, but "I can automate my receipt entry by uploading a batch of images" is.
+> <strong>E</strong> - Estimatable-- meaning it is clear what would be required for the story to be true. "I use it everyday and it has made my accounting take half the time!" is not estimatable, but "I can automate my receipt entry by uploading a batch of images" is.
 
-<strong>S</strong> - Small-- meaning we can complete it inside a single sprint, ideally in 3 to 4 days. We can break stories down into smaller ones if they are too big.
+> <strong>S</strong> - Small-- meaning we can complete it inside a single sprint, ideally in 3 to 4 days. We can break stories down into smaller ones if they are too big.
 
-<strong>T</strong> - Testable-- we need to be able to check if the story is true at some time.
+> <strong>T</strong> - Testable-- we need to be able to check if the story is true at some time.
 
 <h2>How do we write User Stories?</h2>
 
 Here is a template:
 
-As a <strong>[role]</strong> I want to <strong>[action]</strong> so that <strong>[outcome]</strong>.
+> As a <strong>[role]</strong> I want to <strong>[action]</strong> so that <strong>[outcome]</strong>.
 
 And an Example:
 
-As a producer, I want to be able to find sounds similar to a selected sound programmatically, so that when I have a snare drum that is almost working I can test out ones that are adjacent to that one until I find the correct sound.
+> "As a producer, I want to be able to find sounds similar to a selected sound programmatically, so that when I have a snare drum that is almost working I can test out ones that are adjacent to that one until I find the correct sound."
 
 <h2>Lifecycle of User Stories</h2>
 
-Users stories are first written on a card in a pending state. These are basic representations of the story that will lead to further discussion.
-
-Prioritization happens and stories are taken from pending in the Product Backlog and put into sprints.
-
-Then conversations happen between team members, users, product owners, etc. to make sure the stories make sense and are in line with the user's expectations. Previews of the stories are given to the user to get out ahead of their expectations.
-
-Next, development happens and the features are implemented.
-
-Finally, stories undergo confirmation to make sure the specific goals, boundaries, restrictions, and functionality are accepted by everyone including the stakeholders.
-
-Once we finish a user story if we want to make changes or build on the story, we make a new story that goes into the product backlog.
+<ol>
+    <li>Users stories are first written on a card in a pending state. These are basic representations of the story that will lead to further discussion.</li>
+    <li>Prioritization happens and stories are taken from pending in the Product Backlog and put into sprints.</li>
+    <li>Then conversations happen between team members, users, product owners, etc. to make sure the stories make sense and are in line with the user's expectations. Previews of the stories are given to the user to get out ahead of their expectations.</li>
+    <li>Next, development happens and the features are implemented.</li>
+    <li>Finally, stories undergo confirmation to make sure the specific goals, boundaries, restrictions, and functionality are accepted by everyone including the stakeholders.</li>
+    <li>Once we finish a user story if we want to make changes or build on the story, we make a new story that goes into the product backlog.</li>
+</ol>
 
 <h2>User Story Maps</h2>
 
@@ -307,9 +277,89 @@ Let's take note that user story maps are in general inherently organized accordi
 
 Overall user story maps help us to prioritize our work and break it into manageable pieces while maintaining a focus on the value delivered to the consumer. They also help the team remain unified and make constant improvements.
 
+<h1>Agile at Scale</h1>
+
+In this section we are going to talk about how Agile methods work in large organizations where there are many moving pieces that must remain in alignment.
+
+<h2>Frameworks to Scale Agile</h2>
+
+These frameworks provide guidelines, practices, and workflow patterns to help things work at scale. You can think of these as different flavors of Agile.
+
+<ul>
+    <li>Scaled Agile Framework</li>
+    <li>Large Scale Scrum (LeSS) *FREE*</li>
+    <li>Disciplined Agile (DAD)</li>
+    <li>Scrum at Scale</li>
+    <li>Nexus Scrum</li>
+    <li>The Spotify Model (emphasizes culture)</li>
+</ul>
+
+Every company and organization will have its own internal practices and way of using the Agile methodologies.
+
 <h2>Scaled Agile Framework (SAFe)</h2>
 
+We'll soon dive into one of these practices, Scaled Agile Framework (SAFe). SAFe is designed for complex projects that involve several large teams working at different levels.
+
+<h3>Core Values of SAFe</h3>
 
 
+<ul>
+    <li>Alignment - Geographically seperated teams & a changing marketplace.</li>
+    <li>Built-In Quality - Ensure that every component, increment, and element meets the quality standards</li>
+    <li>Transparency - Enable teams to rely on one another to act with integrity and allow for trust.</li>
+    <li>Program Execution - An emphasis on working systems and business outcomes.</li>
+</ul>
 
+These are the conceptual ingredients in our introduction to SAFe.
 
+<h1>Competencies of SAFe</h1>
+
+Now, we will get specific about the structure, practices, and workflow patterns in a SAFe Agile framework.
+
+These are things we can describe about how the entire organization is operating and how the development teams are operating in relation to the rest of the organization.
+
+The competencies are as follows...
+
+<ul>
+    <li>Team & Technical Agility - Teams are high-performing and cross-funtional, and solutions are formed collaboratively between technical teams and business members.</li>
+    <li>Agile Product Delivery - The user is at the center of the strategy and teams are innovating and deploying continuously.</li>
+    <li>Enterprise Solution Delivery - Using lean to build big systems aligned with the entire supply chain.</li>
+    <li>Lean Portfolio Management - An executive strategy powered by decentralized lightweight governance optimizing operations with regard to the funding and strategy.</li>
+    <li>Organizational Agility - A lean-agile mindset across the enterprise where teams understand what other teams are doing and opportunities and threats can be addressed quickly.</li>
+    <li>Continuous Learning Culture - Everyone grows, learns together, creativity is emphasized, and everyone has responsibility for improvements</li>
+    <li>Lean-Agile Leadership - Leadership models the desired behaviors and exhibit the mindset teams are expected to utilize.</li>
+</ul>
+
+Next, we will look at these enterprise competencies in depth.
+
+<h2>Team & Technical Agility</h2>
+
+Teams of 5-11 divide tasks into easy to manage timeboxed iterations to define, build, test, and deploy products.
+
+Teams use scrum (and its roles) to deliver the product in increments. They have retrospectives along the way.
+
+<h2>Agile Project Delivery</h2>
+
+The large organization is made up of many teams, each led by a scrum master, which together form Agile Release Trains (ART) and consist of 50-125 people.
+
+From there, each ART is <em>also</em> cross-functional with each other ART. In practice and throughout, Agile places a strong emphasis on individual members having a broad understanding of the business strategy and what is being accomplished in other areas of the organization.
+
+Each ART use timeboxed iterative agile deliver practices divided into Program Increments (PIs) the same way that Teams do.
+
+> <em>At this moment in the blog you may think you are confused but may not actually be-- this is a good time to notice that everything is working like a fractal where the larger patterns resemble the smaller patterns.</em>
+
+The ARTs coordinate in PI Planning meetings and when an enterprise is working at this scale we have some new roles to consider.
+
+<ul>
+    <li>Release Train Engineer - Facillitates PI Planning process.</li>
+    <li>Project Management - Provide the vision and backlog of tasks.</li>
+    <li>System Architect - Provides architectural guidance.</li>
+</ul>
+
+These individuals use a program board to illustrate the dependencies between teams and plan across increments.
+
+After each increment all teams are gathered for a system demo which is followed by a retrospective called the Inspect and Adapt event.
+
+The ART in this way establishes a continuous delivery pipeline in conjunction with DevOps practices. This allows for continuous exploration, learning, informed risk-taking, and value available on demand.
+
+<h2>Enterprise Solution Delivery</h2>
