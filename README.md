@@ -94,7 +94,7 @@ An iterative approach to product delivery employed at all levels throughout an e
 
 Agile emphasizes maintaining working products over creating comprehensive documentation. This makes creating documentation easier in the long run because it is delayed until the product is up and running. We make better use of customer's feedback and have a collaborative relationship with them. This means having more frequent updates and deliveries.
 
-There is greater transparency when users observe changes incrementally. This allows them to give feedback for effectively. Clients can illuminate what features are a priority, those can be developed first, which raises the value of the product.
+There is greater transparency when users observe changes incrementally. This allows them to give feedback more effectively. Clients can illuminate what features are a priority, those can be developed first, which raises the value of the product.
 
 <h3>Developer Side</h3>
 
