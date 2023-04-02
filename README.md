@@ -557,7 +557,7 @@ What advantages does Agile offer over the Waterfall method?
 
 > "From its inception Agile was built to react to changes more rapidly and be more flexible than previous methodologies. It's right in the name-- Agile outlines strategies that work better for larger organizations and can help build a stronger relationship between the organization and its end-users."
 
-What are some main practical difference between Agile and Waterfall?
+What are some main practical differences between Agile and Waterfall?
 
 > "Waterfall works rigidly as a linear SDLC, while Agile works iteratively and as such is able to continuously deliver and adjust. The increments must be small (time-boxed), usable, and high-quality. The modular approach requires individuals in the organization to have a broad understanding of the products being built and the management must embody and exemplify Agile's core values. The awareness and cross-functionality required for Agile is supported by working patterns like Scrum that ensure teams stay organized and that high visibility is maintained through events like retrospectives and daily scrum meetings."
 
