@@ -2,7 +2,11 @@
 
 Agile methodologies were established in 2001 and are used throughout the industry as a way of strategically managing software development. Agile is a set of methods and practices that facilitate iterative, flexible, and dynamic development.
 
-If you are a new developer with an understanding of Object Oriented programming, it's not so far of a stretch to say that Agile is sort of like modular task management. When you hear about self-organizing cross-functional teams, those are words associated with Agile. It's like organizing the work being done in the same way you approach functional programming. If you look at Agile like that a lot of these concepts are going to seem familiar.
+It was devoloped to deliver software faster which allows the team to react to the market more effectively and one of the defining features is that this faster pace of development allows the team to more effectively leverage their base of users.
+
+IMG OF COMPANIES THAT USE AGILE
+
+If you are a new developer with an understanding of Object Oriented programming, it's not so far of a stretch to say that the Agile strategy is sort of like modular task management. When you hear about self-organizing cross-functional teams, those are words associated with Agile. It's like organizing the work being done in the same way you approach functional programming. If you look at Agile like that a lot of these concepts are going to seem familiar.
 
 <h2>Making Changes Quickly</h2>
 
@@ -39,6 +43,7 @@ Waterfall Methodology is a linear approach to development which we can briefly t
 <ul>
     <li>Smaller teams working on bite-sized objectives.</li>
     <li>Modular work ensures quality.</li>
+    <li>Working software over comprehensive documentation</li>
     <li>Easier to make changes.</li>
     <li>Easier to respond to the market.</li>
     <li>Better for the end-user.</li>
@@ -69,15 +74,15 @@ We can also more easily predict when things will be completed and how much thing
 
 A framework for implementing ideas, reflecting, and making adjustments. Allows for incorporating practices from other frameworks. Works when cross-functional teams are coordinating multiple "sprints" or 2-4 week chunks of development.
 
-<h3>Extreme Programming (XP)</h3>
-
-Works well when there are changing requirements for the software. Minimizes risk due to new technoligies.
-
 <h3>Kanban</h3>
 
 Visual workflow for organizing teams and prioritizing objectives transparently and efficiently.
 
 Good for adapting to a changing environment.
+
+<h3>Extreme Programming (XP)</h3>
+
+Works well when there are changing requirements for the software. Minimizes risk due to new technoligies.
 
 <h3>Lean</h3>
 
@@ -199,7 +204,7 @@ We make a new Scrum Board for each sprint.
 
 <h2>Review</h2>
 
-Agile Project Management is a flexible approach to building a project. Think of this as the scope immediately above our Scrum practices.
+Agile Project Management is a flexible approach to building a project that utilizes Scrum.
 
 <ul>
     <li>Project Planning - Breaking the project into tasks, sprints, and estimating timeframes.</li>
@@ -208,4 +213,103 @@ Agile Project Management is a flexible approach to building a project. Think of 
     <li>Sprint Planning - deciding what to do in the current sprint.</li>
     <li>Daily Meetings - Making adjustments as we go during sprints.</li>
     <li>Sprint Meeting & Retrospective - One meeting with stakeholders to share the release, and one to talk about what went well and what did not.</li>
-<ul>
+</ul>
+
+<h1>Kanban</h1>
+
+A visual representation of work and workflow among a team. The scrum board is an example of a Kanban Board.
+
+<h2>Kanban Items</h2>
+
+<h3>User Stories</h3>
+
+Narratives from the end-user's perspective about using the product in its completed state.
+
+<h3>Kanban</h3>
+
+Good fasdfasdfasdfasdft.
+
+<h3>Extreme Programming (XP)</h3>
+
+Worasdfasdfasdf
+
+<h3>Lean</h3>
+
+Toasdfasdfasdfasdf
+
+<h3>Crystal</h3>
+
+Apsdfasdfasdfasdf
+
+<h2>What are User Stories?</h2>
+
+User stories are a way for us to better understand what we need to make. Let's say we want to create a new product or add a new feature to our product. User stories are written from the persepective on end users and allow us to ensure that our product creates the most value by starting in the moment where that value expresses itself and working backwards.
+
+image of a post-it with a user story
+
+User stories also force us to consider who is going to be using the software. This could mean internal end-users or external ones-- colleagues or customers-- or partner organizations.
+
+User stories cluster to form epics and initiatives. <strong>Epics</strong> are large groups of connected user stories and <strong>Initiatives</strong> are sets of Epics.
+
+The approach also allows the team to look at the desired outcome independent of the reality of creating the software or product. It produces transparency and reduces risks.
+
+Including User Stories on a board allows us to pull that card as a way of prioritizing some work that needs to be done in a way that feels intuitive.
+
+Incorporating User Stories into an Agile workflow increases visibility (which in the context of agile can sort of mean active participation and relationship-building within an organization) because it is an abstract practice that requires communication and some involvement of one's own personality.
+
+<h2>Tenants of good User Stories?</h2>
+
+I'm not hugeley into acronyms or pneumonics but we're going to use one it's called INVEST and here it is.
+
+<strong>I</strong> - Independent and can be delivered on seperately.
+
+<strong>N</strong> - Negotiable and open for discussion.
+
+<strong>V</strong> - Valuable-- "Why is the user excited?" this is mabe the most important one.
+
+<strong>E</strong> - Estimatable-- meaning it is clear what would be required for the story to be true. "I use it everyday and it has made my accounting take half the time!" is not estimatable, but "I can automate my receipt entry by uploading a batch of images" is.
+
+<strong>S</strong> - Small-- meaning we can complete it inside a single sprint, ideally in 3 to 4 days. We can break stories down into smaller ones if they are too big.
+
+<strong>T</strong> - Testable-- we need to be able to check if the story is true at some time.
+
+<h2>How do we write User Stories?</h2>
+
+Here is a template:
+
+As a <strong>[role]</strong> I want to <strong>[action]</strong> so that <strong>[outcome]</strong>.
+
+And an Example:
+
+As a producer, I want to be able to find sounds similar to a selected sound programmatically, so that when I have a snare drum that is almost working I can test out ones that are adjacent to that one until I find the correct sound.
+
+<h2>Lifecycle of User Stories</h2>
+
+Users stories are first written on a card in a pending state. These are basic representations of the story that will lead to further discussion.
+
+Prioritization happens and stories are taken from pending in the Product Backlog and put into sprints.
+
+Then conversations happen between team members, users, product owners, etc. to make sure the stories make sense and are in line with the user's expectations. Previews of the stories are given to the user to get out ahead of their expectations.
+
+Next, development happens and the features are implemented.
+
+Finally, stories undergo confirmation to make sure the specific goals, boundaries, restrictions, and functionality are accepted by everyone including the stakeholders.
+
+Once we finish a user story if we want to make changes or build on the story, we make a new story that goes into the product backlog.
+
+<h2>User Story Maps</h2>
+
+Stories are arranged horizontally based on prioritization and vertically based on the level of sophistication.
+
+Meaning if we are looking at any user story we can look beneath it and see how the feature will be improved, if we look to the right of it we can see new features, features that build on top of existing features, or will need to be implemented later in the process. Remember that all of these items are written from the perspective of <em>what</em> the user is actually doing. Not what the software is doing or what we need to do as a dev team.
+
+Let's take note that user story maps are in general inherently organized according to the user's journey through the software. So for a web application, many projects might have a user story card at the top left reading "Log in to Account".
+
+Overall user story maps help us to prioritize our work and break it into manageable pieces while maintaining a focus on the value delivered to the consumer. They also help the team remain unified and make constant improvements.
+
+<h2>Scaled Agile Framework (SAFe)</h2>
+
+
+
+
+
