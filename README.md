@@ -296,7 +296,7 @@ Agile Project Management is a flexible approach to building a project when it ut
 
 <h2>What are User Stories?</h2>
 
-User stories are a way for us to better understand what we need to make. Let's say we want to create a new product or add a new feature to our product. User stories are written from the perspective on end users and allow us to ensure that our product creates the most value by starting in the moment where that value expresses itself and working backwards.
+User stories are a way for us to better understand what we need to make. Let's say we want to create a new product or add a new feature to our product. User stories are written from the perspective of end users and allow us to ensure that our product creates the most value by starting in the moment where that value expresses itself and working backwards.
 
 <img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nq1h0y7qj2m0v47zditp.png" alt="Illustration of a man sitting in the thinker position with a lightbulb springing forth."/>
 
