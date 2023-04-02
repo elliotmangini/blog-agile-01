@@ -27,7 +27,7 @@ If you are a new developer with an understanding of Object Oriented programming,
 
 <br />
 
-This blog is a comprehensive beginner's guide to Agile I created by distilling topics covered in the [Agile Scrum Course in 4 Hours](https://www.youtube.com/watch?v=VFQtSqChlsk) offered by [Simplilearn](https://www.simplilearn.com/?utm_device=c) on Youtube and supplementing with my own independent research.
+This blog is a comprehensive beginner's guide to Agile I created by distilling topics covered in the [Agile Scrum Course in 4 Hours](https://www.youtube.com/watch?v=VFQtSqChlsk) offered by [Simplilearn](https://www.simplilearn.com/?utm_device=c) on Youtube and supplementing with my own independent research. This blog is also available on my [GitHub](https://github.com/elliotmangini/blog-agile-01).
 <br />
 <br />
 
@@ -573,7 +573,7 @@ What kind of culture does Agile emphasize?
 
 > Agile enables teams to be accountable, self-organizing, and high-integrity. This allows the business to more successfully leverage the strengths of individuals and integrate greater diversity which enhances the organization's culture.
 
-<img height="250px"  src="https://media.licdn.com/dms/image/D5603AQFCfhxFGwNEBA/profile-displayphoto-shrink_800_800/0/1679363492989?e=1686182400&v=beta&t=Cj04quZvBe2l2vVXefqq-FpUriAyA-t629yRTKFg-Yo" alt="Image of Elliot Mangini the author of this blog post."/>
+<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ysczsx90xf258s02x9rl.png" alt="Portrait of Elliot Mangini, the author of this blog post, wearing a gorgeous suit-- man he looks good."/>
 
 I hope this guide helps you hit the ground running and feel more confident with Agile concepts. If you have any questions or feedback, please share below or connect with me directly here or on [LinkedIn](https://www.linkedin.com/in/elliotmangini/)!
 
