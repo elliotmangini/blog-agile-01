@@ -462,7 +462,7 @@ The large organization is made up of many teams, each led by a scrum master, whi
 
 From there, each ART is <em>also</em> cross-functional with each other ART. In practice and throughout, Agile places a strong emphasis on individual members having a broad understanding of the business strategy and what is being accomplished in other areas of the organization.
 
-Each ART use time-boxed iterative agile deliver practices divided into Program Increments (PIs) the same way that Teams do.
+Each ART uses time-boxed iterative agile delivery practices divided into Program Increments (PIs) the same way that Teams do.
 
 > <em>At this moment in the blog you may think you are confused but may not actually be-- this is a good time to notice that everything is working like a fractal where the larger patterns resemble the smaller patterns.</em>
 
