@@ -13,7 +13,7 @@ Agile was developed to deliver software faster which allows the team to react to
 
 <br />
 
-If you are a new developer with an understanding of Object Oriented programming, Agile is sort of like modular task management. When you hear about self-organizing cross-functional teams, those are words associated with Agile. Agile organizes the work being done similar to a functional programming mindset. If you look at Agile like that a lot of these concepts are going to seem familiar.
+If you are a new developer with an understanding of Object Oriented programming, Agile is sort of like modular task management. When you hear about self-organizing cross-functional teams, those are words associated with Agile. Agile organizes the work being done similar to a functional programming mindset where concerns are separated and flexibility is ensured. If you look at Agile like that a lot of these concepts are going to seem familiar.
 
 <br />
 
