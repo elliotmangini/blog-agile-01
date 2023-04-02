@@ -19,7 +19,7 @@ If you are a new developer with an understanding of Object Oriented programming,
 
 
 
-<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mk56k5gc7tju8wjemmgq.png" alt="Illustration showing people running through a wave of technology."/>
+<img height="450px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mk56k5gc7tju8wjemmgq.png" alt="Illustration showing people running through a wave of technology."/>
 
 <br />
 
