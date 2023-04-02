@@ -27,7 +27,7 @@ If you are a new developer with an understanding of Object Oriented programming,
 
 <br />
 
-This blog is a distillation of the topics covered in the [Agile Scrum Course in 4 Hours](https://www.youtube.com/watch?v=VFQtSqChlsk) offered by [Simplilearn](https://www.simplilearn.com/?utm_device=c) on Youtube.
+This blog is a comprehensive beginner's guide to Agile I created by distilling topics covered in the [Agile Scrum Course in 4 Hours](https://www.youtube.com/watch?v=VFQtSqChlsk) offered by [Simplilearn](https://www.simplilearn.com/?utm_device=c) on Youtube and supplementing with my own independent research.
 <br />
 <br />
 
@@ -53,7 +53,7 @@ Nowadays companies need to compete in a rapidly changing marketplace. We have to
 
 Waterfall Methodology is a linear approach to development which we can briefly take a look at to put Agile methods into context.
 
-<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7b33xjxgwghqonlzm964.png" alt="Abstract symbol for waterfall methodologies."/>
 
 <h3>Aspects of Waterfall Methodology</h3>
 
@@ -72,11 +72,12 @@ Waterfall Methodology is a linear approach to development which we can briefly t
 
 An iterative approach to product delivery employed at all levels throughout an enterprise.
 
-<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lptzdks0dvziiu4j9o2c.png" alt="Client developer collaboration abstract symbol."/>
 
 <h3>Aspects of Agile Methodology</h3>
 
 <ul>
+    <li>Strong relationship with user-base.</li>
     <li>Smaller teams working on bite-sized objectives.</li>
     <li>Modular work ensures quality.</li>
     <li>Easier to make changes.</li>
@@ -101,7 +102,7 @@ Agile gives teams more responsibility, ownership, freedom, autonomy, and trust. 
 
 We can also more easily predict when things will be completed and how much things will cost.
 
-<img height="450px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="450px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of an abstract machine representing Agile."/>
 
 <br />
 
@@ -113,18 +114,18 @@ A framework for implementing ideas, reflecting, and making adjustments. Allows f
 
 Scrum incorporates scrum boards and a specific iterative working pattern which shares similarities with Kanban. Kanban refers to the iterations as leaps as opposed to sprints. Scrum may be better for longer-running projects where there is a greater emphasis on the interative nature of the development process.
 
-<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vqirtexhwfgif55v3rg7.png" alt="Semi-official Scrum Symbol."/>
 
 <br />
 
 
 <h2>Kanban</h2>
 
-Kanban is a visual workflow for organizing teams and prioritizing objectives transparently and efficiently. Tasks flow from left to right through to-do, ongoing, and done categories. Kanban emphasizes limiting the amount of tasks being done, the time being spent on those tasks, and enhances visibility across the teams. It is highly flexible and may work best for shorter timelines.
+Kanban is a visual workflow for organizing teams and prioritizing objectives transparently and efficiently. Tasks flow from left to right through <em>to-do</em>, <em>ongoing</em>, and <em>done</em> categories. Kanban emphasizes limiting the amount of tasks being done, the time being spent on those tasks, and enhances visibility across the teams. It is highly flexible and may work best for shorter timelines.
 
 <br />
 
-<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5uebuhj7k3ls75pwynif.png" alt="Simple Symbol representing Kanban."/>
 
 <br />
 
@@ -147,11 +148,16 @@ Tools and principles that can be used to ensure the work being done is the work 
 
 Approach to development through the lens of people and their interactions. Allows teams to optimize their workflow based on the specific requirements of the project. Focuses on communication, integration, and user involvement.
 
+<!-- 
+<img height="450px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o45e1ijxw7equh2qamyj.png" alt="Abstract symbol for scrum."/> -->
+
+<br />
+<br />
+
+
 <h1>Scrum</h1>
 
 There may be a problem with our product and the consumer is not happy. We need to react now. We are going to make the changes immediately even if we are midway through another batch of work and even if the documentation does not reflect the new changes.
-
-<img height="450px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
 
 <h3>History of Scrum</h3>
 
@@ -175,9 +181,9 @@ There may be a problem with our product and the consumer is not happy. We need t
 
 A framework that enables teams to work together and learn from their specific experiences.
 
-Scrum organizes around producing deliverables efficiently and taking stock based on iterative loops with collaborative checkpoints throughout. Projects are divided into smaller units called sprints. Daily scrum meetings occur (sometimes called stand-ups) where the sprint backlog and user feedback are reviewed.
+Scrum organizes around producing deliverables efficiently and taking stock based on iterative loops with collaborative checkpoints throughout. Projects are divided into smaller units called sprints. <strong>Daily Scrum Meetings</strong> occur (sometimes called stand-ups) where the sprint backlog and user feedback are reviewed.
 
-<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qqqwbp141fjh3n3vk3o2.png" alt="Symbol showing 3 individuals at a meeting."/>
 
 What did we do yesterday? What will we do today? Everyone is sharing their updates so that teams are empowered to be self-organizing and all members understand what is going on with each other member. Each member is able to adjust their own strategy based on their counterparts.
 
@@ -188,7 +194,7 @@ What did we do yesterday? What will we do today? Everyone is sharing their updat
     <li>Scrum Team</li>
 </ul>
 
-<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/juq9h7dxd35g8la5b45q.png" alt="Scrum roles infographic."/>
 
 Each role has its own objectives and focus.
 
@@ -198,7 +204,7 @@ The <strong>Scrum Master</strong> helps the team apply scrum, removes barriers f
 
 The <strong>Scrum Team</strong> work together to meet the requirements outlined by the product owner and stakeholders.
 
-<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/945ytsq736ugxrs0gi2a.png" alt="Infographic showing six scrum artifacts, product vision, product backlog, sprint backlog, release plan, sprint burndown chart, and imepediment list."/>
 
 <h3>Scrum <em>Artifacts</em></h3>
 
@@ -228,13 +234,13 @@ Sort of our internal documents for organizing our objectives. "Artifact" is in t
     <li>A product increment should leave the software in a usable state. (release but not necessarily deployment)</li>
 </ul>
 
+Scrum artifacts used in a framework may also include the <strong>Product Vision</strong>, <strong>Release Plan</strong>, <strong>Burndown Charts</strong>, and <strong>Impedement Lists</strong>.
+
 <h3>Scrum <em>Workflow</em></h3>
 
 This is like the workflow, timeline, loop, or path we follow when using Scrum.
 
-![Image of Initialization, skip, and note-taking.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eyp2tqre1k76i0eritpp.png)
-<figcaption>Flowchart from Simplilearn Agile Scrum Full Course Lecture.</figcaption>
-&nbsp;
+<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/phquibkm1m38zlvxh5bo.png" alt="Scrum workflow infographic from Simplilearn."/>
 
 This is how we incrementally move through the development cycle. It's like a fractal by which I mean the smaller scale processes resemble the larger scale processes. We take the idea of moving a product from start to finish and do it many times within the development cycle.
 
@@ -250,10 +256,12 @@ Then the product owner speaks with the stakeholders and is able to make changes 
 
 Once we have done all of this we have a Product Increment.
 
+<br />
 
-![Image of Initialization, skip, and note-taking.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eyp2tqre1k76i0eritpp.png)
-<figcaption>Flowchart from Simplilearn Agile Scrum Full Course Lecture.</figcaption>
-&nbsp;
+<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lw10x46iu8n4yd3bycey.png" alt="Scrum workflow infographic from Simplilearn."/>
+
+<br />
+
 
 We can use a <strong>Scrum Board</strong> to visualize everything on the Sprint Backlog, showing all items during the daily scrum, and made available to all members of the team.
 
@@ -278,27 +286,33 @@ Agile Project Management is a flexible approach to building a project when it ut
     <li>Sprint Meeting & Retrospective - One meeting with stakeholders to share the release, and one to talk about what went well and what did not.</li>
 </ul>
 
-<img height="450px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="450px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cc9649clby0518dszzlh.png" alt="Overview of the scrum iteration."/>
+
+<br />
+<br />
+
+
+<h1>User Stories</h1>
 
 <h2>What are User Stories?</h2>
 
 User stories are a way for us to better understand what we need to make. Let's say we want to create a new product or add a new feature to our product. User stories are written from the perspective on end users and allow us to ensure that our product creates the most value by starting in the moment where that value expresses itself and working backwards.
 
-<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nq1h0y7qj2m0v47zditp.png" alt="Illustration of a man sitting in the thinker position with a lightbulb springing forth."/>
 
-User stories also force us to consider who is going to be using the software. This could mean internal end-users or external ones-- colleagues or customers-- or partner organizations.
+User stories also force us to consider who is going to be using the software. This could mean internal end-users or external ones-- colleagues or customers-- or partner organizations. It's about putting ourselves in the user's shoes.
 
 > User stories cluster to form epics and initiatives. <strong>Epics</strong> are large groups of connected user stories and <strong>Initiatives</strong> are sets of Epics.
 
 The approach also allows the team to look at the desired outcome independent of the reality of creating the software or product. It produces transparency and reduces risks.
 
-<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w5f9stvpiouetpjqcz4m.png" alt="Symbolically shows user stories client vs developer side by a clipboard and comment paired on a clipboard."/>
 
-Including User Stories on a board allows us to pull that card as a way of prioritizing some work that needs to be done in a way that feels intuitive.
+Including User Stories on scrum boards allows us to pull that card as a way of prioritizing some work that needs to be done in a way that feels intuitive.
 
 Incorporating User Stories into an Agile workflow increases visibility (which in the context of agile can sort of mean active participation and relationship-building within an organization) because it is an abstract practice that requires communication and some involvement of one's own personality.
 
-<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<br />
 
 <h2>What are the Tenants of good User Stories?</h2>
 
@@ -316,17 +330,28 @@ I'm not hugely into acronyms or pneumonics but we're going to use one it's calle
 
 > <strong>T</strong> - Testable-- we need to be able to check if the story is true at some time.
 
+<br />
+
+<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ytlqe9py37ovfawi520.png" alt="infographic showing the who what and why posted on a clipboard."/>
+
+<br />
+
 <h2>How do you write User Stories?</h2>
 
-Here is a template:
+Template:
 
-> As a <strong>[role]</strong> I want to <strong>[action]</strong> so that <strong>[outcome]</strong>.
+> As a <strong>[role]</strong>, I want to <strong>[action]</strong>, so that <strong>[outcome]</strong>.
 
-And an Example:
+Example:
 
-> "As a producer, I want to be able to find sounds similar to a selected sound programmatically, so that when I have a snare drum that is almost working I can test out ones that are adjacent to that one until I find the correct sound."
+> "As a <strong>[producer]</strong>, I want to <strong>[be able to find sounds similar to a selected sound programmatically]</strong>, so that <strong>[when I have a snare drum that is almost working I can test out ones that are adjacent to that one until I find the correct sound]</strong>."
 
-<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<br />
+
+<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uwcou08tsk08c47cyawr.png" alt="graphic showing how user stories go through creation, conversation, and confirmation steps."/>
+
+<br />
+
 
 <h2>Lifecycle of User Stories</h2>
 
@@ -339,19 +364,27 @@ And an Example:
     <li>Once we finish a user story if we want to make changes or build on the story, we make a new story that goes into the product backlog.</li>
 </ol>
 
-<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<br />
 
 <h2>User Story Maps</h2>
 
 Stories are arranged horizontally based on prioritization and vertically based on the level of sophistication.
 
-Meaning if we are looking at any user story we can look beneath it and see how the feature will be improved, if we look to the right of it we can see new features, features that build on top of existing features, or will need to be implemented later in the process. Remember that all of these items are written from the perspective of <em>what</em> the user is actually doing. Not what the software is doing or what we need to do as a dev team.
+<img height="400px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nmiy0z1encgvk56zum3z.png" alt="User Story Map Example."/>
+
+<br />
+
+Meaning if we look at the above graphic, you can see that from any single user story beneath it we can see how the feature will be improved, to the right of it we can see new features, features that build on top of existing features, or will need to be implemented later in the process. Remember that all of these items are written from the perspective of <em>what</em> the user is actually doing. Not what the software is doing or what we need to do as a dev team.
 
 Let's take note that user story maps are in general inherently organized according to the user's journey through the software. So for a web application, many projects might have a user story card at the top left reading "Log in to Account".
 
 Overall user story maps help us to prioritize our work and break it into manageable pieces while maintaining a focus on the value delivered to the consumer. They also help the team remain unified and make constant improvements.
 
-<img height="450px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<br />
+
+<img height="600px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0r684xtpmtlr5q5gxxcn.png" alt="Abstract symbol of many blue triangles arranged into a pyramid."/>
+
+<br />
 
 <h1>Agile at Scale</h1>
 
@@ -388,7 +421,7 @@ We'll soon dive into one of these practices, Scaled Agile Framework (SAFe). SAFe
 
 These are the conceptual ingredients in our introduction to SAFe.
 
-<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zmyeaj6d1mf3fcprui31.png" alt="SAFe crest logo."/>
 
 <h1>Competencies of SAFe</h1>
 
@@ -410,13 +443,18 @@ The competencies are as follows...
 
 Next, we will look at these enterprise competencies in depth.
 
-<img height="450px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="450px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fchs516x5r7ctug41ulf.jpeg" alt="Banner style infographic showing SAFe competencies."/>
+
+<br />
 
 <h2>Team & Technical Agility</h2>
 
 Teams of 5-11 divide tasks into easy to manage time-boxed iterations to define, build, test, and deploy products.
 
 Teams use scrum (and its roles) to deliver the product in increments. They have retrospectives along the way.
+
+<br />
+
 
 <h2>Agile Project Delivery</h2>
 
@@ -430,19 +468,23 @@ Each ART use time-boxed iterative agile deliver practices divided into Program I
 
 The ARTs coordinate in PI Planning meetings and when an enterprise is working at this scale we have some new roles to consider.
 
+<img height="200px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qgqc8h4tm1pfdb00p5xr.jpeg" alt="ART roles infographic."/>
+
+<br />
+
 <ul>
     <li>Release Train Engineer - Facilitates PI Planning process.</li>
     <li>Project Management - Provide the vision and backlog of tasks.</li>
     <li>Systems Architect - Provides architectural guidance.</li>
 </ul>
 
-<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<br />
 
-These individuals use a program board to illustrate the dependencies between teams and plan across increments.
-
-After each increment all teams are gathered for a system demo which is followed by a retrospective called the Inspect and Adapt event.
+These individuals use a program board to illustrate the dependencies between teams and plan across increments. After each increment all teams are gathered for a system demo which is followed by a retrospective called the Inspect and Adapt event.
 
 The ART in this way establishes a continuous delivery pipeline in conjunction with DevOps practices. This allows for continuous exploration, learning, informed risk-taking, and value available on demand.
+
+<br />
 
 <h2>Enterprise Solution Delivery</h2>
 
@@ -456,11 +498,15 @@ There are new roles that function similarly at this level:
     <li>Solutions Architect - Handles architecture across ARTs.</li>
 </ul>
 
+<br />
+
 <h2>Lean Portfolio Management</h2>
 
 Combines strategic themes with portfolio vision to enable solution development aligned with the enterprise's strategy. Ensures that defects are eliminated downstream and risk factors are eliminated. Ensures viability of and funding for value streams.
 
-<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nfgcyjddndg2mrm51j4l.png" alt="Infographic outlining lean portfolio management."/>
+
+<br />
 
 <h2>Organizational Agility</h2>
 
@@ -470,7 +516,7 @@ As we keep introducing new products and services the management and operations n
 
 Encouraging the growth of lean-thinking people and agile teams, making changes in the direction based on the scenario. Focusing on organizing and reorganizing an environment for the flow of value across the environment.
 
-<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j2d1dzhr1omuy9v53lin.png" alt="abstract symbol for continuous learning through agile."/>
 
 <h2>Continuous Learning Culture</h2>
 
@@ -478,13 +524,11 @@ This one is self-explanatory but it's important. We should be focused on continu
 
 We wanna move away from a way of thinking where we find the "right" way to do something and then celebrate the victory towards one where we are constantly making incremental changes with regard to a dynamic environment.
 
-<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="350px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ej2gby8ysi5zuxyooi45.jpg" alt="Lean-Agile Mindset infographic."/>
 
 <h2>Lean-Agile Leadership</h2>
 
 Ensuring that everyone is motivated by embodying, teaching, and exhibit, lean-agile mindsets, principles, and values across the organization. This ensures business agility.
-
-<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
 
 <h3>SAFe Configurations</h3>
 
@@ -498,7 +542,10 @@ Configurations of a framework refer to different flavors and levels of comprehen
 
 <strong>Full SAFe</strong> - The comprehensive implementation of all seven SAFe competencies.
 
-<img height="450px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<br />
+
+
+<img height="450px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ra52jnyam8h16bwtjv7.jpg" alt="A Grid of various symbols related to Agile methodologies."/>
 
 <br />
 
@@ -526,7 +573,7 @@ What kind of culture does Agile emphasize?
 
 > Agile enables teams to be accountable, self-organizing, and high-integrity. This allows the business to more successfully leverage the strengths of individuals and integrate greater diversity which enhances the organization's culture.
 
-<img height="250px"  src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3fzqzzzicohbg0mu99r.png" alt="Illustration of a machine representing Agile."/>
+<img height="250px"  src="https://media.licdn.com/dms/image/D5603AQFCfhxFGwNEBA/profile-displayphoto-shrink_800_800/0/1679363492989?e=1686182400&v=beta&t=Cj04quZvBe2l2vVXefqq-FpUriAyA-t629yRTKFg-Yo" alt="Image of Elliot Mangini the author of this blog post."/>
 
 I hope this guide helps you hit the ground running and feel more confident with Agile concepts. If you have any questions or feedback, please share below or connect with me directly here or on [LinkedIn](https://www.linkedin.com/in/elliotmangini/)!
 
